@@ -8,4 +8,5 @@ https://github.com/labstreaminglayer/LSL4Unity.git?path=UnityPackage
 
 then
 
-Package install from git or via openUPM (easier)
+Package install from git https://github.com/fcbg-platforms/BitalinoUnityReader.git?path=BitalinoPackage/Packages/ch.fcbg.bitalino-reader
+or via openUPM (easier)
