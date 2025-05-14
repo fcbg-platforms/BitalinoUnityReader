@@ -10,6 +10,5 @@
     "url": "https://vr.fcbg.ch"
   },
   "dependencies": {
-    "com.labstreaminglayer.lsl4unity" : "1.16.0"
   }
 }
