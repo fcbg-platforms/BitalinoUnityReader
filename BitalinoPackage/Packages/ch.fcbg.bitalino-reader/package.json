@@ -1,0 +1,15 @@
+{
+  "name": "ch.fcbg.bitalino-reader",
+  "version": "1.0.0",
+  "displayName": "Bitalino Reader",
+  "description": "Package for reading bitalino",
+  "unity": "2021.3",
+  "author": {
+    "name": "FCBG VR",
+    "email": "vr@fcbg.ch",
+    "url": "https://vr.fcbg.ch"
+  },
+  "dependencies": {
+    "com.labstreaminglayer.lsl4unity" : "1.16.0"
+  }
+}
