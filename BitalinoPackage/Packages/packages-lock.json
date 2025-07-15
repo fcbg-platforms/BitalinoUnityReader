@@ -4,9 +4,7 @@
       "version": "file:ch.fcbg.bitalino-reader",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "com.labstreaminglayer.lsl4unity": "1.16.0"
-      }
+      "dependencies": {}
     },
     "com.labstreaminglayer.lsl4unity": {
       "version": "https://github.com/labstreaminglayer/LSL4Unity.git",
