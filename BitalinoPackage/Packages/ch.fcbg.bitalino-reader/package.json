@@ -1,8 +1,8 @@
 {
   "name": "ch.fcbg.bitalino-reader",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "displayName": "Bitalino Reader",
-  "description": "Package for reading bitalino",
+  "description": "Package for reading Bitalino",
   "unity": "2021.3",
   "author": {
     "name": "FCBG VR",
@@ -10,5 +10,12 @@
     "url": "https://vr.fcbg.ch"
   },
   "dependencies": {
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage Sample",
+      "description": "Demonstrates how to use the Bitalino Reader package.",
+      "path": "Samples~/"
+    }
+  ]
 }
